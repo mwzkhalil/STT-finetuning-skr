@@ -36,15 +36,6 @@ cd ..
 
 ## Machine Learning
 
-- Data Ingestion and Data Preprocessing is carried out in `workflow/01_data_prep.ipynb` notebook.
-- Model Training and Evaluation is carried using `workflow/02_model_training.py` script. Model is not fine-tuned in the notebook due to previous experience of it crashing while fine-tuning.
-- Prediction pipeline for the fine-tuned model is carried out in `workflow/03_model_inference.ipynb` notebook.
-- Evaluation and Results stored in `data/language/dv/Results_Speech_to_Text.docx`.
-
-We can see that from `Results_Speech_to_Text.docx`, within few hours of fine-tuning and **2000 steps**, we have reached word error rate of **11.63%** of Dhivehi language. Pretty great results produced by this model as it is completely a new language that model didnt train upon during pre-training.
-
-For more improvements on the word error rate, we can try out more larger models - `medium` and `large`.
-
 ## References
 
 - Made use of Whisper pre-trained model - sinhalese language.
