@@ -1,4 +1,4 @@
-# Fine-tuning a Speech-to-Text Whisper model on unseen language - Urdu language
+# Fine-tuning a Speech-to-Text Whisper model on Urdu language
 
 This focuses on fine-tuning a pre-trained Whisper model for the Urdu language.
 ## Creating a conda environment
