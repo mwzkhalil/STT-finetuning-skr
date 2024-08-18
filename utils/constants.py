@@ -4,7 +4,7 @@ from os.path import dirname as up
 sys.path.append(os.path.abspath(os.path.join(up(__file__), os.pardir)))
 
 NAME_DATASET = "mozilla-foundation/common_voice_17_0"
-TARGET_LANGUAGE = "urd"
+TARGET_LANGUAGE = "ur"
 SIMILAR_TARGET_LANGUAGE = "urdu"
 RAW_DATA_PATH = "data/language/urd/raw"
 PROCESSED_DATA_PATH = "data/language/urd/processed"
