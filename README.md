@@ -1,7 +1,6 @@
-# Fine-tuning a Speech-to-Text Whisper model on unseen language - Dhivehi language
+# Fine-tuning a Speech-to-Text Whisper model on unseen language - Urdu language
 
-This project focuses on fine-tuning a pre-trained Whisper model for the Dhivehi language. Model has not been pre-trained on Dhivehi language at all. The base model selected is pre-trained on Sinhalese, a closely related language, to leverage linguistic similarities for better performance.
-
+This focuses on fine-tuning a pre-trained Whisper model for the Urdu language.
 ## Creating a conda environment
 
 Its assumed that conda is already installed and nvidia gpu is available.
