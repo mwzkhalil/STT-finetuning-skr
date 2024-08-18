@@ -37,6 +37,4 @@ cd ..
 ## Machine Learning
 
 ## References
-
-- Made use of Whisper pre-trained model - sinhalese language.
 - HuggingFace Audio Course - https://huggingface.co/learn/audio-course/en/chapter5/fine-tuning
